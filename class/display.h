@@ -18,7 +18,7 @@
 	 
 	 RS:  PB3
 	 E:   PB4
-	 PD4: PD4
+	 D4:  PD4
 	 D5:  PD5
 	 D6:  PD6
 	 D7:  PD7
