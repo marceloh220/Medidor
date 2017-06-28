@@ -12,9 +12,9 @@
    avr-libc 2.0
    avr-binutils 2.28
 
-	A tinny and minimalist library to display HD44780
+	A tinny and minimalist library to display with controller HD44780(or similar)
 	Matriz 5x8 pixels
-	16/2 characteres
+	16x2 characteres
 	 
 	 RS:  PB3
 	 E:   PB4
